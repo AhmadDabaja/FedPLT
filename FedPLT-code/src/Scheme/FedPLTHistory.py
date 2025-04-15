@@ -100,6 +100,8 @@ class CustomHistory(SimulationHistory):
             self.history[i]['testing accuracy'] = test_accuracies[i]
 
     def save(self, path: str, simulation_name: str):
+        os.makedirs(path, exist_ok=True)
+        
         data_to_save = {
             'simulation_parameters': self.simulation_parameters,
             'history': self.history
