@@ -1,7 +1,7 @@
 FedPLT Code License – Research Use Only (Read and Run Only)
 Copyright (c) Ahmad DABAJA, LIA Lab (Avignon University), 2025
 
-This code is the official implementation of FedPLT, a federated learning scheme proposed by the authors at the LIA Lab, Acingon University. It was developed and maintained by Ahmad DABAJA.
+This code is the official implementation of FedPLT, a federated learning scheme proposed by the authors at the LIA Lab, Avignon University. It was developed and maintained by Ahmad DABAJA.
 
 This code is released to accompany the paper:
 "FedPLT: Scalable, Resource-Efficient, and Heterogeneity-Aware Federated Learning via Partial Layer Training"
